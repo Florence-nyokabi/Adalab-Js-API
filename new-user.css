@@ -1,0 +1,24 @@
+.form{
+    margin: 0 auto;
+    width: 40%;
+    /* border: solid green; */
+    
+}
+.form > input{
+    padding: 10px 20px;
+    border: solid 1px #c7bbbb;
+    border-radius: 5px;
+    width: 70%;
+    font-size: 18px;
+    color: rgb(209, 34, 171);
+
+}
+.form button{
+    border: none;
+    outline: none;
+    background-color: rgb(8, 42, 236);
+    padding: 12px 20px;
+    border-radius: 5px;
+    color: #dde1e7;
+    font-size: 18px;
+}
